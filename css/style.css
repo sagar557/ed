@@ -241,16 +241,16 @@ header .image-text .profession{
     .home .text{
         padding: .3rem .5rem;
     }
-    .head{
+       .head{
         display: block;
         position: fixed;
-        bottom: 0;
+        bottom: 0 !important;
         left: 0;
     }
 
     
     .sidebar header .toggle{
-        top: 80vh;
+        top: 80vh !important;
     }
     .sidebar.close .image{
         opacity: 0;
