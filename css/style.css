@@ -250,7 +250,7 @@ header .image-text .profession{
 
     
     .sidebar header .toggle{
-        top: 95%;
+        top: 50vh;
     }
     .sidebar.close .image{
         opacity: 0;
